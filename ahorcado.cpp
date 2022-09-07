@@ -1,3 +1,6 @@
+// Infomarción:
+// Aplicación creada en mi primer semestre estudiando Ingeniería Civil en Informática y Telecomunicaciones, que recuerdos!!!
+
 #include <iostream>
 #include <vector>
 #include <stdlib.h>
